@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar1 {
+ 
+ background-color: rgb(233, 227, 227);
+ height: 78px;
+}
+.span1 {
+    margin-left: 150px;
+    
+}
+.span2 {
+    margin-left: 900px;
+}
+.btn1 {
+    background-color: rgb(151, 214, 223);
+    border-color:  rgb(18, 185, 18);
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+.btn1:hover {
+    border-radius: 10px;
+    background-color: rgb(18, 185, 18);
+    border-color:rgb(151, 214, 223);
+    height: 40px;
+    width: 100px;
+}
+.btn2 {
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+.btn2:hover {
+    height: 40px;
+    width: 100px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.navbar2 {
+    position: fixed;
+    display: flex;
+    margin-top: 20px;
+    background-color: white;
+    height: 70px;
+}
+.btn3 {
+    background-color: rgb(151, 214, 223);
+    border-color:  rgb(18, 185, 18);
+    height: 40px;
+    width: 130px;
+    border-radius: 10px;
+
+}
+.btn3:hover {
+    background-color: rgb(18, 185, 18);
+    border-color:rgb(151, 214, 223);
+    height: 40px;
+    width: 130px;
+}
+.span5 {
+    color: rgb(19, 19, 185);
+}
+
+.img5 {
+    margin-left: 120px;
+}
+.div1 {
+   display: flex;
+    margin-left: 110px;
+    background-image: url("https://media.gettyimages.com/id/2169753762/photo/karachi-pakistan-men-stand-in-line-for-a-free-meal-by-saylani-welfare-on-august-29-2024-in.jpg?s=612x612&w=gi&k=20&c=S6SETStqtpzoZ3njm1zAhVHDMVohXNqcw4e-C9XUVEs=");
+    background-size: cover;
+   width: 1600px;
+}
+.p1 {
+    font-size: 15px;
+    display: flex;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.span7 {
+    font-size: 35px;
+}
+.span6 {
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+   
+}
+.div2 {
+    
+   margin-left: 100px;
+   
+
+}
+.div4 {
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJnsrD0LngDOiRK7JPYbGt11v0z7-8zUIhWQ&s");
+    height:250px;
+    width: 1400px;
+    margin-left: 250px;
+  
+
+
+}
+   
+
+input {
+    height: 50px;
+    border-color: white;
+   margin-top: 30px;
+   border-radius: 10px;
+   
+}
+.btn4 {
+    height: 60px;
+    margin-top: 5px;
+    width: 590px;
+    border-radius: 10px;
+   font-weight: 900;
+   font-size: 20px;
+    border-color: blue;
+
+}
+.h11 {
+    color: white;
+    
+}
+.foot {
+    display: flex;
+    background-color: rgb(90, 86, 86);
+  height: 300px;
+
+ 
+}
+.img6 {
+    width: 300px;
+    height: 60px;
+    margin-left: 130px;
+    margin-top: 50px;
+  
+
+}
+.ul1 {
+    margin-left: 160px;
+    margin-top: 50px;
+    color: white;
+   
+}
+ul {
+  list-style-type: none;
+}
+#li11 {
+    color:white;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+#li2 {
+color: blue;
+}
+
+.span8 {
+    margin-top: 130px;
+  font-size: 40px;
+ 
+}
+#icon1 {
+    color: rgb(101, 101, 240);
+    
+}
+
+#icon3 {
+    color: rgba(231, 56, 56, 0.911);
+}
+#icon4 {
+    color: rgb(16, 199, 16);
+}
+.btn5 {
+    background-color: rgb(90, 86, 86);
+    color: white;
+border-color: white white white white;
+height: 25px;
+}
+.btn6 {
+    background-color: black;
+    color: white;
+    border-color: grey grey grey grey;
+    height: 30px;
+    width: 100px;
+}
+.p2 {
+    background-color: rgb(90, 86, 86);
+    text-align: center;
+    height: 100px;
+    color: white;
+   
+}
+.hr1 {
+    width: 200px;
+}
+.span9 {
+    background-color: rgb(90, 86, 86);
+}
